@@ -7,3 +7,4 @@ npm i xiao-cli -g
 
 xiao init boxgame
 ```
+welcome to xiao-cli
